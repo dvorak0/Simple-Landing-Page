@@ -52,7 +52,7 @@ You can view this project by clicking on this [Demo LInk](https://enigm413.githu
 
 - Clone the repository to your local machine:
   ```bash
-  git clone https://github.com/yourusername/Simple-Landing-Page.git
+  git clone https://github.com/enigm413/Simple-Landing-Page.git
   ```
 - Navigate to the project directory:
   ```bash
